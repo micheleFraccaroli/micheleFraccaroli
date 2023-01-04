@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @micheleFraccaroli :italy
+- 👋 Hi, I’m @micheleFraccaroli
 - 👀 I’m a computer vision engineer and I'm interested in Machine and Deep Learning 🧠 🤖
 - 📫 How to reach me: michelefraccaroli@gmail.com
 
